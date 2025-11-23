@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🍰 Doce Encanto Confeitaria
 
-# Run and deploy your AI Studio app
+## 💡 Sobre o Projeto
+Este é o website oficial da **Doce Encanto Confeitaria**, desenvolvido para a disciplina Engenharia de Software II.
 
-This contains everything you need to run your app locally.
+## 🚀 Funcionalidades Principais
 
-View your app in AI Studio: https://ai.studio/apps/drive/17Y53e1upf2vfYGoMCmawhsO9VeB48lUU
+* **Página Inicial (Home):** Apresentação da marca e produtos.
+* **Página Sobre (About):** Apresentação da história da Confeitaria e formas de contato.
+* **Responsividade:** Layout adaptável para telas de computadores, tablets e celulares.
 
-## Run Locally
+## 🛠️ Como Executar o Projeto Localmente
 
-**Prerequisites:**  Node.js
+Para rodar este projeto na sua máquina, siga os passos abaixo:
 
+### Pré-requisitos
+* Node.js (versão 18 ou superior)
+* Git
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Instalação e Execução
+
+1.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/](https://github.com/)[SEU_USUARIO]/doce-encanto-confeitaria.git
+    cd doce-encanto-confeitaria
+    ```
+
+2.  **Instale as Dependências:**
+    ```bash
+    npm install
+    # ou
+    yarn install
+    ```
+
+3.  **Inicie o Servidor de Desenvolvimento:**
+    ```bash
+    npm run dev
+    # ou
+    yarn dev
+    ```
+    
+O projeto estará acessível em `http://localhost:5173` (ou a porta indicada no seu terminal).
+
+## 🤝 Autores
+Heloisa Silveira Bula
+
+José Victor Vicente Beltramello
+
+Mirian Schmitt Jaeger
+
+Tiago Rosa
